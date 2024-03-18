@@ -47,7 +47,6 @@ package com.example.exp2;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -79,15 +78,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
         implicit_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 Intent intent1 = new Intent(Intent.ACTION_VIEW);
                 intent1.setData(Uri.parse("https://www.gmail.com"));
                 startActivity(intent1);
             }
-
         });
     }
 }
@@ -98,14 +96,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 package com.example.exp2;
 import androidx.appcompat.app.AppCompatActivity;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
-
 import android.os.Bundle;
-
 
 public class activity_second extends AppCompatActivity {
 
