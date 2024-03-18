@@ -26,12 +26,16 @@ Step 8: By clicking Explicit Intent button open second page using Explicit Inten
 
 Step 7: Save and run the application.
 
+<br/>
+
 ## Program:
 ```
 Program to create a layout by click button option ,open google page using Implicit Intents in Android Studio. .
 Developed by: Amrutha Rajsheker
 RegisterNumber: 212222110003
 ```
+
+<br/>
 
 ## MainActivity.java:
 ```
@@ -85,6 +89,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+<br/>
+
+
 ## activity_second.java:
 ```
 package com.example.exp2;
@@ -108,6 +115,9 @@ public class activity_second extends AppCompatActivity {
     }
 }
 ```
+
+<br/>
+
 
 ## activity_main.xml:
 ```
@@ -156,6 +166,9 @@ public class activity_second extends AppCompatActivity {
 
 ```
 
+<br/>
+
+
 ## activity_second.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -178,8 +191,14 @@ public class activity_second extends AppCompatActivity {
 </RelativeLayout>
 ```
 
+<br/>
+
+
 ## Output:
 ![Screenshot 2024-03-14 215340](https://github.com/SowmyaVisvanathan/INTENT_GIT/assets/119475775/d6927bb3-7a53-4e56-bb86-eb6d5587d8b7)
+
+<br/>
+
 
 ## RESULT:
 Thus a simple android application to open google page using Implicit Intent in Android Studio was developed and executed successfully.
