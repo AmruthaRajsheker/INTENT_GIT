@@ -40,9 +40,7 @@ RegisterNumber: 212222110003
 <br/>
 <br/>
 
-## MainActivity.java:
-
-<br/>
+### MainActivity.java:
 
 ```
 package com.example.exp2;
@@ -95,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## activity_second.java:
+### activity_second.java:
 
 ```
 package com.example.exp2;
@@ -120,10 +118,8 @@ public class activity_second extends AppCompatActivity {
 }
 ```
 
-<br/>
 
-
-## activity_main.xml:
+### activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -135,8 +131,7 @@ public class activity_second extends AppCompatActivity {
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context=".MainActivity">
-```
-```
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -174,7 +169,7 @@ public class activity_second extends AppCompatActivity {
 <br/>
 
 
-## activity_second.xml:
+### activity_second.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
