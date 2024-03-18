@@ -95,9 +95,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-<br/>
-
-
 ## activity_second.java:
 
 ```
