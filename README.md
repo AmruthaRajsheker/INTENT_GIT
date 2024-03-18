@@ -36,6 +36,7 @@ RegisterNumber: 212222110003
 ```
 
 <br/>
+<br/>
 
 ## MainActivity.java:
 ```
@@ -131,7 +132,8 @@ public class activity_second extends AppCompatActivity {
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context=".MainActivity">
-
+```
+```
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
