@@ -32,6 +32,7 @@ Program to create a layout by click button option ,open google page using Implic
 Developed by: Amrutha Rajsheker
 RegisterNumber: 212222110003
 ```
+
 ## MainActivity.java:
 ```
 package com.example.exp2;
@@ -48,7 +49,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.os.Bundle;
-
 
 import android.os.Bundle;
 
@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ## activity_second.java:
 ```
 package com.example.exp2;
@@ -107,6 +108,7 @@ public class activity_second extends AppCompatActivity {
     }
 }
 ```
+
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -153,6 +155,7 @@ public class activity_second extends AppCompatActivity {
 </RelativeLayout>
 
 ```
+
 ## activity_second.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -174,6 +177,7 @@ public class activity_second extends AppCompatActivity {
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
 ```
+
 ## Output:
 ![Screenshot 2024-03-14 215340](https://github.com/SowmyaVisvanathan/INTENT_GIT/assets/119475775/d6927bb3-7a53-4e56-bb86-eb6d5587d8b7)
 
