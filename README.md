@@ -144,7 +144,8 @@ public class activity_second extends AppCompatActivity {
         android:layout_marginTop="42dp"
         android:background="#3e7d02"
         android:textColor="#ffffff" />
-
+```
+```
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
